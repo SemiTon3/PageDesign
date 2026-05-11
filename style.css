@@ -243,9 +243,9 @@ p {
 
   .btn-invite {
     width: auto;
-    max-width: 220px;
-    padding: 0.5rem 0.9rem;
-    font-size: 0.95rem;
+    max-width: 180px;
+    padding: 0.45rem 0.8rem;
+    font-size: 0.9rem;
   }
 
   .hero {
